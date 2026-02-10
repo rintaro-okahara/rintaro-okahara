@@ -1,6 +1,22 @@
 ## Hi there 👋
 
-![Rintaro's GitHub stats](https://github-readme-stats-ten-gules-65.vercel.app/api?username=rintaro-okahara&theme=tokyonight)
+![Rintaro's GitHub stats - Dark](
+https://github-readme-stats-ten-gules-65.vercel.app/api
+?username=rintaro-okahara
+&theme=tokyonight
+&show_icons=true
+#gh-dark-mode-only
+)
+
+![Rintaro's GitHub stats - Light](
+https://github-readme-stats-ten-gules-65.vercel.app/api
+?username=rintaro-okahara
+&theme=default
+&show_icons=true
+#gh-light-mode-only
+)
+
+
 ![My Skills](https://skillicons.dev/icons?i=python,ruby,rails,react,nextjs,ts,aws,docker)
 
 <!--
