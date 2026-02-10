@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Rintaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-okahara&theme=tokyonight)
+![My Skills](https://skillicons.dev/icons?i=python,ruby,rails,react,nextjs,ts,aws,docker)
+
 <!--
 **rintaro-okahara/rintaro-okahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
