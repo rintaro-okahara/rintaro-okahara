@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Rintaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rintaro-okahara&theme=tokyonight)
+![Rintaro's GitHub stats](https://github-readme-stats-ten-gules-65.vercel.app/api?username=rintaro-okahara&theme=tokyonight)
 ![My Skills](https://skillicons.dev/icons?i=python,ruby,rails,react,nextjs,ts,aws,docker)
 
 <!--
