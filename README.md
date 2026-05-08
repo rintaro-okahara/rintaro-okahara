@@ -41,3 +41,7 @@ Work in progress...
 ### Github Activity
 
 ![Rintaro's GitHub stats - Dark](https://github-readme-stats-ten-gules-65.vercel.app/api?username=rintaro-okahara&theme=tokyonight&show_icons=true#gh-dark-mode-only)
+
+### Algorithm Practice
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rintaro-okahara?font=Noto%20Sans)](https://leetcode.com/u/rintaro-okahara/)
