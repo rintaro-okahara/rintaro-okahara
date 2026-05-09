@@ -36,7 +36,12 @@ I'm Graduate student in Mathematical Informatics at the University of Tokyo now.
 
 
 ### OSS & Contributions
-Work in progress...
+
+<a href="https://github.com/supabase/supabase"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" /></a>
+<a href="https://github.com/langgenius/dify"><img src="https://img.shields.io/badge/Dify-1C64F2?style=flat&logo=dify&logoColor=white" /></a>
+<a href="https://github.com/Audiveris/audiveris"><img src="https://img.shields.io/badge/Audiveris-555555?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://github.com/exaloop/codon"><img src="https://img.shields.io/badge/Codon-222222?style=flat&logo=github&logoColor=white" /></a>
+
 
 ### Github Activity
 
