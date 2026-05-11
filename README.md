@@ -47,6 +47,6 @@ I'm Graduate student in Mathematical Informatics at the University of Tokyo now.
 
 ![Rintaro's GitHub stats - Dark](https://github-readme-stats-ten-gules-65.vercel.app/api?username=rintaro-okahara&theme=tokyonight&show_icons=true#gh-dark-mode-only)
 
-### Algorithm Practice
+### Algorithm Practice / Competitive Programming
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/rintaro-okahara?font=Noto%20Sans)](https://leetcode.com/u/rintaro-okahara/)
